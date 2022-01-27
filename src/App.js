@@ -7,6 +7,7 @@ function App() {
     <div>
       <Article />
       <Comment />
+      <Comment />
     </div>
   );
 }
